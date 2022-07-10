@@ -1,0 +1,15 @@
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroDeProdutosEx\CadastroDeProdutosEx\bin\Debug\net6.0\CadastroDeProdutosEx.exe
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroDeProdutosEx\CadastroDeProdutosEx\bin\Debug\net6.0\CadastroDeProdutosEx.deps.json
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroDeProdutosEx\CadastroDeProdutosEx\bin\Debug\net6.0\CadastroDeProdutosEx.runtimeconfig.json
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroDeProdutosEx\CadastroDeProdutosEx\bin\Debug\net6.0\CadastroDeProdutosEx.dll
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroDeProdutosEx\CadastroDeProdutosEx\bin\Debug\net6.0\CadastroDeProdutosEx.pdb
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroDeProdutosEx\CadastroDeProdutosEx\obj\Debug\net6.0\CadastroDeProdutosEx.csproj.AssemblyReference.cache
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroDeProdutosEx\CadastroDeProdutosEx\obj\Debug\net6.0\CadastroDeProdutosEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroDeProdutosEx\CadastroDeProdutosEx\obj\Debug\net6.0\CadastroDeProdutosEx.AssemblyInfoInputs.cache
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroDeProdutosEx\CadastroDeProdutosEx\obj\Debug\net6.0\CadastroDeProdutosEx.AssemblyInfo.cs
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroDeProdutosEx\CadastroDeProdutosEx\obj\Debug\net6.0\CadastroDeProdutosEx.csproj.CoreCompileInputs.cache
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroDeProdutosEx\CadastroDeProdutosEx\obj\Debug\net6.0\CadastroDeProdutosEx.dll
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroDeProdutosEx\CadastroDeProdutosEx\obj\Debug\net6.0\refint\CadastroDeProdutosEx.dll
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroDeProdutosEx\CadastroDeProdutosEx\obj\Debug\net6.0\CadastroDeProdutosEx.pdb
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroDeProdutosEx\CadastroDeProdutosEx\obj\Debug\net6.0\CadastroDeProdutosEx.genruntimeconfig.cache
+C:\Users\teteu\Desktop\CURSO DE C#\sessao 10 - herança e polimorfismo\exercicio resolvido\CadastroDeProdutosEx\CadastroDeProdutosEx\obj\Debug\net6.0\ref\CadastroDeProdutosEx.dll
